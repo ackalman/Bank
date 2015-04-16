@@ -1,0 +1,15 @@
+{
+    "name": "salman/salman",
+    "description": "test for lara vel",
+    "minimum-stability": "dev",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "alpasdkjssalman",
+            "email": "salman@example.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.13.1"
+    }
+}
