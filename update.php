@@ -43,6 +43,9 @@ include 'INCLUDE/html_config_navbar.inc.php';
             echo 'Welcome! '.   $username;
             echo '<br><br>';
 
+
+
+        echo 'new file added'
 ?>
 
      <form action="update.php" method="post">
